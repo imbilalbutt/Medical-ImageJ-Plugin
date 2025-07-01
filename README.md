@@ -1,11 +1,11 @@
 # Medical ImageJ Plugin 🩺🔬
 An ImageJ plugin designed for advanced medical image processing, built as part of the MT2 (Medizintechnik II) course.
 
-🎯 Project Overview
+## 🎯 Project Overview
 Inspired by the Medizintechnik II curriculum, this plugin facilitates hands-on experience with core image processing techniques—such as thresholding, segmentation, edge detection, and more—within the ImageJ ecosystem. This project aims to implement fundamental image-processing-techniques which have a lot of application in different fields based on imaging. This project builts a set of ImageJ-Plugins that are capable of performing operations like thresholding / image-segmentation, evaluation of segmentation using specifity and sensitivity, and edge-detection.
 
 
-🧩 Features
+## 🧩 Features
 Image thresholding & segmentation: Enables interactive and automated region of interest (ROI) extraction.
 
 Segmentation Evaluation – Computes specificity and sensitivity for performance assessment.
@@ -16,18 +16,18 @@ Modular design: Easily extendable to support future processing steps like denois
 
 ImageJ integration: Seamlessly operates within the standard ImageJ/Fiji interface, following plugin best practices.
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 Java (compatible with ImageJ 1.x)
 
 ImageJ Plugin API
 
 Built from a template aligned with MT2 course structure.
 
-📚 Course Alignment
+## 📚 Course Alignment
 This project was developed as part of the Medical Imaging Systems module in the Medizintechnik II program at FAU Erlangen–Nürnberg, simulating common workflows in medical image analysis.
 
 
-🔧 Getting Started
+## 🔧 Getting Started
 
 Prerequisites
 
@@ -41,7 +41,7 @@ Prerequisites
 
 
 
-Setup instructions
+## Setup instructions
 
 1. Clone the repository:
 git clone https://github.com/imbilalbutt/Medical-ImageJ-Plugin.git
@@ -61,7 +61,7 @@ mvn clean package
 
 
 
-🗂 Project Structure
+## 🗂 Project Structure
 
 Medical-ImageJ-Plugin/
 ├── ij.jar                      # ImageJ library
@@ -77,16 +77,19 @@ Medical-ImageJ-Plugin/
 └── pom.xml                     # Maven configuration
 
 
-🧪 Testing
-TODO: Implement unit tests for image processing algorithms.
+## 🧪 Testing
+
+> TODO: Implement unit tests for image processing algorithms.
 
 CI/CD using Jenkins or Github actions
-TODO: Implement CI/CD pipeline to automatically run test cases.
+
+> TODO: Implement CI/CD pipeline to automatically run test cases.
 
 Ensure full test coverage by running:
 mvn test
 
-📄 MT2 Course Context
+## 📄 MT2 Course Context
+
 This plugin is part of a series of practical final project in Medizintechnik II:
 
 ✅ Task 1: Image Thresholding
@@ -102,7 +105,8 @@ This plugin is part of a series of practical final project in Medizintechnik II:
 
 Some tasks builds upon the previous, culminating in a comprehensive imaging toolkit.
 
-📌 Future Enhancements
+## 📌 Future Enhancements
+
 🔍 Add interactive GUI for visualization within ImageJ
 
 📈 Integrate advanced segmentation techniques (e.g., watershed, active contours)
@@ -111,11 +115,11 @@ Some tasks builds upon the previous, culminating in a comprehensive imaging tool
 
 🛠 Automate workflows using ImageJ macros
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See LICENSE for details.
 
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 Based on the Medizintechnik II – Medical Imaging Systems curriculum at
 Friedrich-Alexander-Universität Erlangen–Nürnberg
