@@ -1,8 +1,9 @@
 # Medical ImageJ Plugin 🩺🔬  
 **An ImageJ plugin for medical image processing developed for MT2 (Medizintechnik II) at FAU Erlangen-Nürnberg**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Java CI](https://github.com/imbilalbutt/Medical-ImageJ-Plugin/actions/workflows/maven.yml/badge.svg)](https://github.com/imbilalbutt/Medical-ImageJ-Plugin/actions/workflows/maven.yml)
+[![License: MIT](https://img.shields.io/github/license/imbilalbutt/Medical-ImageJ-Plugin?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Java CI](https://img.shields.io/github/actions/workflow/status/imbilalbutt/Medical-ImageJ-Plugin/maven.yml?branch=main&style=flat-square)](https://github.com/imbilalbutt/Medical-ImageJ-Plugin/actions/workflows/maven.yml)
+
 
 ## 🎯 Project Overview and Goal
 Inspired by the Medizintechnik II curriculum, this plugin facilitates hands-on experience with core image processing techniques—such as thresholding, segmentation, edge detection, and more—within the ImageJ ecosystem. This project aims to implement fundamental image-processing-techniques which have a lot of application in different fields based on imaging. This project builts a set of ImageJ-Plugins that are capable of performing operations like thresholding / image-segmentation, evaluation of segmentation using specifity and sensitivity, and edge-detection.
