@@ -1,4 +1,3 @@
-```markdown
 # Medical ImageJ Plugin 🩺🔬  
 **An ImageJ plugin for medical image processing developed for MT2 (Medizintechnik II) at FAU Erlangen-Nürnberg**
 
