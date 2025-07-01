@@ -14,15 +14,15 @@ Inspired by the Medizintechnik II curriculum, this plugin facilitates hands-on e
 ✅ **Task 1**: Image Thresholding  
 ✅ **Task 2**: Segmentation Evaluation (Specificity & Sensitivity)  
 ✅ **Task 3**: Otsu Thresholding  
-✅ **Task 4**: Image Filtering  
+✅ **Task 4**: Primitive Edge-Detection Filters  (Sobel, Scharr, Prewitt)
 ✅ **Task 5**: Canny Edge Detection
 
 
 
 ### Core Functionalities
-- **Segmentation**: Threshold-based ROI extraction
+- **Segmentation**: Threshold-based ROI extraction and Otsu method
 - **Performance Metrics**: Specificity & sensitivity calculation
-- **Edge Detection**: Canny and Otsu methods
+- **Edge Detection**: Sobel, Scharr, Prewitt, and Canny
 - **Modular Architecture**: Easy to extend with new features
 
 ## 🛠️ Installation
