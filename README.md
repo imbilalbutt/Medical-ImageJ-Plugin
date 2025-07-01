@@ -1,8 +1,8 @@
 # Medical ImageJ Plugin 🩺🔬  
 **An ImageJ plugin for medical image processing developed for MT2 (Medizintechnik II) at FAU Erlangen-Nürnberg**
 
-[![License: MIT](https://img.shields.io/github/license/imbilalbutt/Medical-ImageJ-Plugin?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Java CI](https://img.shields.io/github/actions/workflow/status/imbilalbutt/Medical-ImageJ-Plugin/maven.yml?branch=main&style=flat-square)](https://github.com/imbilalbutt/Medical-ImageJ-Plugin/actions/workflows/maven.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Java CI](https://github.com/imbilalbutt/Medical-ImageJ-Plugin/actions/workflows/maven.yml/badge.svg)](https://github.com/imbilalbutt/Medical-ImageJ-Plugin/actions/workflows/maven.yml)
 
 
 ## 🎯 Project Overview and Goal
