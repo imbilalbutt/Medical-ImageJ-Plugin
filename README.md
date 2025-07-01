@@ -65,10 +65,15 @@ mvn clean package
 
 Medical-ImageJ-Plugin/
 ├── ij.jar                      # ImageJ library
+
 ├── src/                        # Plugin source code
+
 ├── plugin/MT2-project-ImageProcessing/
+
 ├── img/                        # Sample images
+
 ├── macros/                     # ImageJ macros
+
 └── pom.xml                     # Maven configuration
 
 
