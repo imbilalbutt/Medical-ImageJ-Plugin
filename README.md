@@ -7,11 +7,12 @@
 
 
 ## 🎯 Project Overview and Goal
-Inspired by the Medizintechnik II curriculum, this plugin facilitates hands-on experience with core image processing techniques—such as thresholding, segmentation, edge detection, and more—within the ImageJ ecosystem. This project aims to implement fundamental image-processing-techniques which have a lot of application in different fields based on imaging. This project builts a set of ImageJ-Plugins that are capable of performing operations like thresholding / image-segmentation, evaluation of segmentation using specifity and sensitivity, and edge-detection.
+Final project for the Medizintechnik II to create plugin with multiple functionalities using image processing techniques, such as thresholding, segmentation, edge detection, and more—within the ImageJ ecosystem. This project aims to implement fundamental image processing techniques which have a lot of application in different fields. This project builts a set of ImageJ-Plugins that are capable of performing operations like thresholding / image-segmentation, evaluation of segmentation using specifity and sensitivity, and primitive and advanced edge-detection.
 
 
 ## ✨ Key Features
 ### Implemented Course Project Tasks
+
 ✅ **Task 1**: Image Thresholding  
 
 ✅ **Task 2**: Segmentation Evaluation (Specificity & Sensitivity)  
