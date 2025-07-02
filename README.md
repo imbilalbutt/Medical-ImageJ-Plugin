@@ -13,9 +13,13 @@ Inspired by the Medizintechnik II curriculum, this plugin facilitates hands-on e
 ## ✨ Key Features
 ### Implemented Course Project Tasks
 ✅ **Task 1**: Image Thresholding  
+
 ✅ **Task 2**: Segmentation Evaluation (Specificity & Sensitivity)  
+
 ✅ **Task 3**: Otsu Thresholding  
+
 ✅ **Task 4**: Primitive Edge-Detection Filters  (Sobel, Scharr, Prewitt)
+
 ✅ **Task 5**: Canny Edge Detection
 
 
