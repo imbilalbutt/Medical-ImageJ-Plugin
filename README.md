@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Java](https://img.shields.io/badge/Java-11%2B-orange)
-[![Java CI](https://github.com/imbilalbutt/Medical-ImageJ-Plugin/actions/workflows/maven.yml/badge.svg)](https://github.com/imbilalbutt/Medical-ImageJ-Plugin/actions/workflows/maven.yml)
+
 
 
 ## 🎯 Project Overview and Goal
